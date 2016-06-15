@@ -11,6 +11,7 @@
     "framework",
     "web"
   ],
+  "K":"ack",
   "homepage": "http://getbootstrap.com",
   "license": "MIT",
   "moduleType": "globals",
